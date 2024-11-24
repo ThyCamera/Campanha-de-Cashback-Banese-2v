@@ -20,47 +20,4 @@ Passos: Faça o download ou clone este repositório. Abra o arquivo indexinicial
 
 ✨ Melhorias Futuras Integração com backend para persistência de dados. Relatórios e gráficos para análise de campanhas. Sistema de autenticação mais robusto.
 
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 0 forks
-Releases
-No releases published
-Create a new release
-Packages
-No packages published
-Publish your first package
-Languages
-CSS
-39.9%
- 
-JavaScript
-31.5%
- 
-HTML
-28.6%
-Suggested workflows
-Based on your tech stack
-Publish Node.js Package to GitHub Packages logo
-Publish Node.js Package to GitHub Packages
-Publishes a Node.js package to GitHub Packages.
-Webpack logo
-Webpack
-Build a NodeJS project with npm and webpack.
-Gulp logo
-Gulp
-Build a NodeJS project with npm and gulp.
-More workflows
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Sec
+
